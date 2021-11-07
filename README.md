@@ -27,7 +27,7 @@ To do our analysis we use these programs:
 * Python 3.9 (This program was developed for and tested with Python 3.9. The program may also work with previous Python versions, but this was not tested.)
 * Anaconda 3
 * Jupyter Notebook
-* ADD the other program we used
+- * VS Code (visual studio code - program)
 
 To run our code you will need the following packages: 
-* UPDATE numpy, pandas, matplotlib.pyplot, pylab, sklearn, statsmodels.api, tkinter 
+* UPDATE based on our imported libraries (e.-g- numpy, pandas, matplotlib.pyplot, pylab, sklearn, statsmodels.api, tkinter 
