@@ -23,7 +23,7 @@ The program offers students a special alarm setting system by providing the foll
 There are five files distributed within this repository. "README.md" is used for a project description as well as instructions. "XX.ipynb" and "XX.py" contain code. 
 
 ## Installations 
-To do our analysis we used these programs: 
+To do our analysis we used the following programs: 
 * Python 3.9 (This program was developed for and tested with Python 3.9. The program may also work with previous Python versions, but this was not tested.)
 * Anaconda 3
 * Jupyter Notebook
