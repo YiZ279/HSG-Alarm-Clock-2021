@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # HSG Alarm Clock - Never be late again!
 
 # ## About the Project
